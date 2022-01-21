@@ -1,6 +1,6 @@
-# emulador
+# App para gerenciamento de Tarefas
 
-A new Flutter project.
+Projeto feito em Flutter, usando package SharedPreferences para salvar dados.
 
 ## Getting Started
 
